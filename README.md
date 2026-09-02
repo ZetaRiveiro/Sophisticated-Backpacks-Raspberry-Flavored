@@ -28,7 +28,7 @@ Fork of Sophisticated Backpacks by p3pp3rf1y rebalanced with Raspberry Flavored 
    - Restock Upgrade
    - Pickup Upgrade
 4. Removed backpacks from generating in chests.
-6. Changed recipes to use RF items. 
+6. Changed recipes to use RF items.
    <img width="162" height="162" alt="0-11" src="https://github.com/user-attachments/assets/a6a44ae5-ae8f-405d-abe2-10c61018d09d" />
    <img width="162" height="162" alt="1-10" src="https://github.com/user-attachments/assets/9ee31d07-5617-4f49-a69d-b77bf33d0bba" />
    <img width="162" height="162" alt="2-9" src="https://github.com/user-attachments/assets/26a4ec8c-d4ac-4a1c-9ea9-8523df13322a" />
