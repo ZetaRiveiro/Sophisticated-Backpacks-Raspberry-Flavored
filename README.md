@@ -14,7 +14,7 @@ This fork trims down the bloat, respects vanilla-esque storage limitations, and 
 
 ---
 
-### 2. Upgrade Pruning
+### 2. Upgrade Rebalancing
 
 To maintain mechanical balance and prevent overlapping with Raspberry Flavored features, most utility and advanced upgrades have been removed:
 
