@@ -29,7 +29,7 @@ To maintain mechanical balance and prevent overlapping with Raspberry Flavored f
 | **Feeding & Tool Swapper** | Brain dead upgrades lol. |
 | **Smoking / Blasting** | Redudant due to RF removing or replacing these blocks. |
 | **Stonecutter** | Redundant by the RF Sawing Table. |
-| **Jukebox** | Rendered redundant by the Boombox item. |
+| **Jukebox** | Redundant by the Boombox item. |
 | **Everlasting** | Redundant due to RF's death mechanics and void protection is useless with no End dimension. |
 | **Battery / Experience** | EXP and LV/HV does not exist in RF. |
 | **Anvil / Smithing** | This are just personal taste. I feel crafting and smelting are basic enough to be integrated into the backpack, but these two cross the line for me. |
