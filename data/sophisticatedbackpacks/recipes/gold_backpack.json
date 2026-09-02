@@ -1,0 +1,34 @@
+{
+  "type": "sophisticatedbackpacks:backpack_upgrade",
+  "conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedbackpacks:gold_backpack"
+    }
+  ],
+  "key": {
+    "B": {
+      "item": "sophisticatedbackpacks:iron_backpack"
+    },
+    "C": {
+      "item": "minecraft:chain"
+    },
+    "H": {
+      "item": "nethersdelight:hoglin_hide"
+    },
+    "P": {
+      "item": "suppsquared:gold_plaque"
+    },
+    "G": {
+      "item": "create:golden_sheet"
+    }
+  },
+  "pattern": [
+    "CHC",
+    "HBH",
+    "GPG"
+  ],
+  "result": {
+    "item": "sophisticatedbackpacks:gold_backpack"
+  }
+}

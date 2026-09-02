@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedbackpacks:deposit_upgrade"
+    }
+  ],
+  "key": {
+    "B": {
+      "item": "sophisticatedbackpacks:upgrade_base"
+    },
+    "C": {
+      "item": "alloyed:steel_casing"
+    },
+    "I": {
+      "item": "alloyed:bronze_ingot"
+    },
+    "P": {
+      "item": "create:portable_storage_interface"
+    }
+  },
+  "pattern": [
+    " P ",
+    "IBI",
+    " C "
+  ],
+  "result": {
+    "item": "sophisticatedbackpacks:deposit_upgrade"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "sophisticatedbackpacks:backpack_upgrade",
+  "conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedbackpacks:copper_backpack"
+    }
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:rabbit_hide"
+    },
+    "R": {
+      "item": "kubejs:rubber"
+    },
+    "C": {
+      "item": "create:copper_sheet"
+    },
+    "P": {
+      "item": "suppsquared:copper_plaque"
+    },
+    "B": {
+      "item": "sophisticatedbackpacks:backpack"
+    }
+  },
+  "pattern": [
+    "LRL",
+    "RBR",
+    "CPC"
+  ],
+  "result": {
+    "item": "sophisticatedbackpacks:copper_backpack"
+  }
+}

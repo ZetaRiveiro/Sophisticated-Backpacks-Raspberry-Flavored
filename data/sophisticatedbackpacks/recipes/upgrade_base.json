@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedbackpacks:upgrade_base"
+    }
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "S": {
+      "item": "oreganized:silver_nugget"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "pattern": [
+    "LSL",
+    "SPS",
+    "LSL"
+  ],
+  "result": {
+    "item": "sophisticatedbackpacks:upgrade_base"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "sophisticatedbackpacks:basic_backpack",
+  "conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedbackpacks:backpack"
+    }
+  ],
+  "key": {
+    "C": {
+      "item": "farmersdelight:canvas"
+    },
+    "L": {
+      "tag": "forge:leather"
+    },
+    "S": {
+      "tag": "forge:string"
+    }
+  },
+  "pattern": [
+    "SLS",
+    "L L",
+    "CCC"
+  ],
+  "result": {
+    "item": "sophisticatedbackpacks:backpack"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedbackpacks:restock_upgrade"
+    }
+  ],
+  "key": {
+    "B": {
+      "item": "sophisticatedbackpacks:upgrade_base"
+    },
+    "C": {
+      "item": "alloyed:steel_casing"
+    },
+    "I": {
+      "item": "alloyed:bronze_ingot"
+    },
+    "S": {
+      "item": "create:smart_chute"
+    }
+  },
+  "pattern": [
+    " S ",
+    "IBI",
+    " C "
+  ],
+  "result": {
+    "item": "sophisticatedbackpacks:restock_upgrade"
+  }
+}
