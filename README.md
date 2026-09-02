@@ -51,10 +51,11 @@ Only core quality-of-life utilities remain:
 All crafting recipes have been reworked to integrate seamlessly with native Raspberry Flavored items and progression.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a6a44ae5-ae8f-405d-abe2-10c61018d09d" width="162" alt="Recipe 0-11" />
+  <img src="https://github.com/user-attachments/assets/18537088-3d46-4436-bb70-0395b577386d" width="162" alt="Recipe 3-8" />
   <img src="https://github.com/user-attachments/assets/9ee31d07-5617-4f49-a69d-b77bf33d0bba" width="162" alt="Recipe 1-10" />
   <img src="https://github.com/user-attachments/assets/26a4ec8c-d4ac-4a1c-9ea9-8523df13322a" width="162" alt="Recipe 2-9" />
-  <img src="https://github.com/user-attachments/assets/18537088-3d46-4436-bb70-0395b577386d" width="162" alt="Recipe 3-8" />
+  <img src="https://github.com/user-attachments/assets/a6a44ae5-ae8f-405d-abe2-10c61018d09d" width="162" alt="Recipe 0-11" />
+
 </p>
 
 <p align="center">
